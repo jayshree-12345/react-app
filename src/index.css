@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+h1 {
+  color: black;
+}
+
+/* Target the table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Target table header (th) */
+.table th {
+  background-color: #f2f2f2;
+  border: 2px solid black;
+  padding: 6px;
+  text-align: left;
+}
+
+/* Target table data cells (td) */
+.table td {
+  border: 1px solid green;
+  padding: 6px;
+}
+
+/* Target odd rows for alternate styling */
+.table tbody tr:nth-child(odd) {
+  background-color: papayawhip;
+}
+
+/* Hover effect on rows */
+.table tbody tr:hover {
+  background-color: white;
+}

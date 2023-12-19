@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jayshree-12345/react-app/static/css/main.c3168bb0.css",
+    "main.js": "/jayshree-12345/react-app/static/js/main.4340a0f6.js",
+    "static/js/787.38f16daf.chunk.js": "/jayshree-12345/react-app/static/js/787.38f16daf.chunk.js",
+    "index.html": "/jayshree-12345/react-app/index.html",
+    "main.c3168bb0.css.map": "/jayshree-12345/react-app/static/css/main.c3168bb0.css.map",
+    "main.4340a0f6.js.map": "/jayshree-12345/react-app/static/js/main.4340a0f6.js.map",
+    "787.38f16daf.chunk.js.map": "/jayshree-12345/react-app/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3168bb0.css",
+    "static/js/main.4340a0f6.js"
+  ]
+}
